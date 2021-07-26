@@ -11,4 +11,6 @@ class MainActivity : AppCompatActivity() {
         var hello: String = "Hello Text"
         var newHello: String = "New Hello Text"
     }
+
+    //Connect Firebase to the project
 }
